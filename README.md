@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @everythinginmoderation2
 - 👀 I’m interested in learning...
-- 🌱 I’m currently learning and practicing how to develop software using the MERN stack.
+- 🌱 I’m currently learning and practicing full-stack engineering using MERN.
 - 💞️ I’m looking to collaborate on projects that might appreciate my enthusiasm about learning and my new abilitites.
 - 📫 How to reach me: Message or email
