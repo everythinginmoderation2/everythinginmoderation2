@@ -15,4 +15,5 @@
 - 🙌 I've grown so much. Aside from code, I've grown to understand and practice more of what the typical dev environment requires. Commands, git, github, npm, deployments, debugging, a bit of project managment basics (SCRUM) and so much more... I've successfully worked in successful teams to practice building neat little things. I'll continue to grow.
 -   
 - 💞️ I’m looking to collaborate on projects that might appreciate my enthusiasm about learning and my new abilitites.
-- 📫 How to reach me: Message or email
+- 📫 How to reach me: ps@princeslater.com
+- 
