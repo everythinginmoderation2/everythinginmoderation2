@@ -6,7 +6,7 @@
 
 - By end of 2019 I had continued and completed the frontend portion of the FullStackDev Codecademy course. 
 
-- By the last quarter of 2020, I had finished the backend portion of the Fullstack Codecademy course having learned so much. From data fetching, JSON, Express, MySQL and even test suites like the Mocha (the framework) and Chai (the library) combo, I saw a glimpse into so many paths with no coach or someone to match me with any particular direction.
+- By the last quarter of 2020, I had finished the backend portion of the Fullstack Codecademy course having learned so much. From data fetching, JSON, Express, MySQL and performance-testing with Mocha and Chai, I saw a glimpse into so many paths with no coach or someone to match me with any particular direction.
 
 - Doing all of this while working full-time as a public school teacher provided me a lot of discipline and new knowledge but still no real direction or time. I knew that React was growing popular. I knew that it could potentially get me started in the industry. Afterall, who doesn't want to be paid to learn, practice and do what they enjoy?
 - 
