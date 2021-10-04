@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @everythinginmoderation2
-- 👀 I’m interested in health, music, the world outside of my bubble and learning...particularly growing muscle memory and good habits with the MERN stack.
-- 🌱 I’m currently and constantly learning that javascript allows me so many choices for building and understanding a large portion of the www. The MERN may be where I start, but may be just that, indeed. A start. 
+- 👀 I’m interested in health, music, the world outside of my bubble and learning...particularly things outside of my (MERN) original comfort zone.
+- 🌱 I’m currently and constantly learning that javascript allows me so many choices for building and understanding a large portion of the www. The MERN stack may have been where I started, but strong-typing and OOP details are what will be mixing into my knowledge-base next.
 - 
 - In 2018, via FreeCodeCamp and Codecademy, I started and finished much of my intro HTML, CSS, Javascript. 
 
