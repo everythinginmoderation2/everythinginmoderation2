@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @everythinginmoderation2
 - 👀 I’m interested in talking, health, music, travel, cultural exchange and learning.
-- 🌱 I’m a javascript developer.
+- 🌱 I’m a web developer.
 - 📫 How to reach me: ps@princeslater.com
