@@ -14,7 +14,7 @@ I'm a **Web Developer and Software Engineer** passionate about building innovati
 🔹 **[Early Web Dev Portfoloio Website](https://intro-to-ps.netlify.app/)** - Projects hosted on this portfolio site showcase early experience building interactive websites.
 
 ## 📫 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/princeslater/)  
+🔗 [LinkedIn.com/in/princeslater](https://www.linkedin.com/in/princeslater/)  
 📧 ps@princeslater.com  
 
 ---
