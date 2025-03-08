@@ -11,7 +11,7 @@ I'm a **Web Developer and Software Engineer** passionate about building innovati
 
 ## 📌 Featured Projects  
 🔹 **[Travel Blog](https://github.com/everythinginmoderation2/travelblog)** - A dynamic travel blog built with React and Redux, fetching data via Axios.  
-🔹 **[Early Web Dev Portfoloio Website](https://github.com/everythinginmoderation2/portfolio)** - Projects hosted on this portfolio site showcase early experience building interactive websites. 
+🔹 **[Early Web Dev Portfoloio Website](https://princeslater.com/)** - Projects hosted on this portfolio site showcase early experience building interactive websites.
 🔹 **[Cheapest Cost Calculator](https://github.com/everythinginmoderation2/Cheapest-Cost-Calculator)** - A Python-based tool for calculating cost-effective solutions.  
 
 ## 📫 Let's Connect  
