@@ -38,7 +38,7 @@ I'm a **Web Developer and Software Engineer** passionate about building innovati
 
 ## 📌 Featured Projects  
 🔹 **[Travel Blog](https://github.com/everythinginmoderation2/travelblog)** - A dynamic travel blog built with React and Redux, fetching data via Axios.  
-🔹 **[Early Web Dev Portfoloio Website](https://intro-to-ps.netlify.app/)** - Projects hosted on this portfolio site showcase early experience building interactive websites.
+🔹 **[Early Web Dev Portfoloio Website](https://intro-to-ps.netlify.app/)** - Projects hosted on this portfolio site showcase early experience building interactive websites.  
 🔹 **[Personal Website](https://github.com/everythinginmoderation2/prince-slater-client)** - A website used for spreading awareness about my passion for music creation and education.
 
 
