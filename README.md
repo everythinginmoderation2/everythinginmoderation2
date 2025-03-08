@@ -30,9 +30,6 @@ I'm a **Web Developer and Software Engineer** passionate about building innovati
 - **Version Control:** Git, GitHub  
 - **Collaboration Tools:** Microsoft Office Suite, Adobe CC, Google Workspace, AI  
 - **Video Conferencing:** Microsoft Teams, Google Meet, Zoom, WhatsApp  
-
-### 🎓 Learning & Certification Platforms  
-- **Environments:** QwikLabs, FreeCodeCamp, Coursera, CodeCademy, Udemy  
  
 
 
