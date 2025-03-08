@@ -10,9 +10,9 @@ I'm a **Web Developer and Software Engineer** passionate about building innovati
 - **Other Tools:** Git, GitHub, Docker, Linux  
 
 ## 📌 Featured Projects  
-🔹 **[Travel Blog](https://github.com/everythinginmoderation2/travel-blog)** - A dynamic travel blog built with React and Redux, fetching data via Axios.  
-🔹 **[Personal Website](https://github.com/everythinginmoderation2/personal-website)** - My portfolio site, hosted on GitHub Pages, showcasing my work and experience.  
-🔹 **[Cheapest Cost Calculator](https://github.com/everythinginmoderation2/cheapest-cost-calculator)** - A Python-based tool for calculating cost-effective solutions.  
+🔹 **[Travel Blog](https://github.com/everythinginmoderation2/travelblog)** - A dynamic travel blog built with React and Redux, fetching data via Axios.  
+🔹 **[Early Web Dev Portfoloio Website](https://github.com/everythinginmoderation2/portfolio)** - Projects hosted on this portfolio site showcase early experience building interactive websites. 
+🔹 **[Cheapest Cost Calculator](https://github.com/everythinginmoderation2/Cheapest-Cost-Calculator)** - A Python-based tool for calculating cost-effective solutions.  
 
 ## 📫 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/princeslater/)  
