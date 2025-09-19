@@ -1,7 +1,7 @@
 # Hi, I'm Prince Slater 👋  
 
 ## 🚀 About Me  
-I'm a **Web Developer and Software Engineer** passionate about building innovative solutions. My background includes experience in **technical support, customer service, and software development**, giving me a strong foundation in both problem-solving and user experience. While I'm currently most experienced in **JavaScript and Java**, I am comfortable quickly learning and applying other languages like **Python and SQL** to create efficient and scalable applications.
+I'm a **Web Developer and Software Engineer** who appreciates technology and looks forward to working as part of a professional team. My background includes experience in **education, customer service, software development, and IT**, giving me a strong foundation in **teamwork, presentation, problem-solving and user experience**. While I'm currently most experienced in **HTML/CSS, JavaScript, React and most recently, Java**, I am comfortable using any other compiled or interpreted languages like **Python and SQL** to create or manage applications. While, my journey has been a long one, full of different experiences, my dev/engineering portfolio also demonstrates my contentment with quickly learning and applying new things!
 
 
 ## 🔧 Technologies & Tools  
