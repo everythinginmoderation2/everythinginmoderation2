@@ -42,7 +42,7 @@ I'm a **Web Developer and Software Engineer** who appreciates technology and loo
 
 ## 📫 Let's Connect  
 🔗 [LinkedIn.com/in/princeslater](https://www.linkedin.com/in/princeslater/)  
-📧 ps@princeslater.com  
+📧 slaterpgv@gmail.com  
 
 ---
 
